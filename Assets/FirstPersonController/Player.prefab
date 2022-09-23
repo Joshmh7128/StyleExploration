@@ -270,7 +270,7 @@ MonoBehaviour:
   jumpVelocity: 2
   playerJumpVelocity: 0
   respawnPoint: {fileID: 0}
-  aimSensitivity: 400
+  aimSensitivity: 60
   minYAngle: -90
   maxYAngle: 90
 --- !u!143 &5514058804985898431
