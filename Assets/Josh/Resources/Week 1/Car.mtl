@@ -1,0 +1,8 @@
+newmtl Car_Body
+Kd 0.254717 0.254717 0.254717
+d 1
+
+newmtl Car_Windshield
+Kd 0.254717 0.254717 0.254717
+d 1
+
