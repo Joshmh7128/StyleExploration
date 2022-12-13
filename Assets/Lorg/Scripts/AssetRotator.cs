@@ -10,11 +10,11 @@ public class AssetRotator : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+       transform.DOLocalRotate(new Vector3(0, 360, 0), time, RotateMode.FastBeyond360).SetRelative(true).SetEase(Ease.Linear);
     }
 
     // Update is called once per frame
     void Update()
     {
-       transform.DOLocalRotate(new Vector3(0, 360, 0), time, RotateMode.FastBeyond360).SetRelative(true).SetEase(Ease.Linear);
     }
 }
