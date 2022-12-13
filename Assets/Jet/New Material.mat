@@ -24,6 +24,7 @@ Material:
   m_Shader: {fileID: 4800000, guid: bee44b4a58655ee4cbff107302a3e131, type: 3}
   m_ValidKeywords:
   - DR_OUTLINE_ON
+  - DR_RIM_ON
   - DR_SPECULAR_ON
   - _CELPRIMARYMODE_SINGLE
   - _TEXTUREBLENDINGMODE_MULTIPLY
@@ -122,10 +123,10 @@ Material:
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _FlatRimEdgeSmoothness: 0.5
-    - _FlatRimLightAlign: 0
+    - _FlatRimLightAlign: 0.27
     - _FlatRimSize: 0.5
-    - _FlatSpecularEdgeSmoothness: 0.222
-    - _FlatSpecularSize: 0.373
+    - _FlatSpecularEdgeSmoothness: 0.185
+    - _FlatSpecularSize: 0.019
     - _Flatness: 0.972
     - _FlatnessExtra: 1
     - _GlossMapScale: 0
@@ -150,7 +151,7 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _RimEnabled: 0
+    - _RimEnabled: 1
     - _SelfShadingSize: 0.695
     - _SelfShadingSizeExtra: 0.6
     - _ShadowEdgeSize: 0.152
