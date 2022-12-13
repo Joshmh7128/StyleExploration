@@ -267,7 +267,7 @@ MonoBehaviour:
   characterController: {fileID: 5514058804985898431}
   moveSpeed: 5
   gravity: -9.81
-  jumpVelocity: 2
+  jumpVelocity: 1
   playerJumpVelocity: 0
   respawnPoint: {fileID: 0}
   aimSensitivity: 60
