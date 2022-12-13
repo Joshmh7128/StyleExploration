@@ -1,0 +1,8 @@
+
+AltSurface "LOLA topography with shading" "Sol/Earth/Moon"
+{
+        Texture "MoonTopo_LOLA.ctx"
+        NormalMap "MoonNormal_LOLA.ctx"
+}
+
+
