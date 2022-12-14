@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Back_LowPoly
+  m_Name: M_Back_LowP
   m_Shader: {fileID: 4800000, guid: 13c02b14c4d048fa9653293d54f6e0e1, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
@@ -213,10 +213,10 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.2784314, g: 0.49803925, b: 0.8431373, a: 1}
+    - _BaseColor: {r: 0.8301887, g: 0.6530488, b: 0.246707, a: 1}
     - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
-    - _Color: {r: 0.2784314, g: 0.49803925, b: 0.8431373, a: 1}
+    - _Color: {r: 0.8301887, g: 0.6530488, b: 0.246707, a: 1}
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _ColorDim: {r: 0.08899963, g: 0.49534667, b: 0.754717, a: 1}
     - _ColorDimCurve: {r: 0.85023, g: 0.85034, b: 0.85045, a: 0.85056}
