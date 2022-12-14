@@ -86,7 +86,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -223,10 +223,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 592.4}
-      m_SelectedIDs: 30720000
-      m_LastClickedID: 29232
-      m_ExpandedIDs: c8faffffeefaffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: d8780000
+      m_LastClickedID: 0
+      m_ExpandedIDs: eefaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -294,8 +294,8 @@ MonoBehaviour:
     y: 0
     width: 743.2
     height: 292
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 9}
   m_Panes:
   - {fileID: 9}
@@ -577,11 +577,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.00013767015, y: -0.99931604, z: 0.044412255, w: 0.012363902}
     speed: 2
-    m_Value: {x: 0.00013761802, y: -0.9989376, z: 0.044395436, w: 0.01235922}
+    m_Value: {x: -0.00013767015, y: 0.999316, z: -0.044412255, w: -0.012363902}
   m_Size:
-    m_Target: 18.149502
+    m_Target: 16.950573
     speed: 2
-    m_Value: 18.149502
+    m_Value: 16.220644
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -625,8 +625,8 @@ MonoBehaviour:
     y: 292
     width: 743.2
     height: 149.6
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -700,22 +700,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Swathi/Materials
+    - Assets/Swathi/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Swathi/Materials
+  - Assets/Swathi/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\swath\Desktop\3D Style Exploration\StyleExploration
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 239.80002}
-    m_SelectedIDs: d0780000
-    m_LastClickedID: 30928
-    m_ExpandedIDs: 000000006478000066780000687800006a78000000ca9a3b
+    scrollPos: {x: 0, y: 271.80002}
+    m_SelectedIDs: d2780000
+    m_LastClickedID: 30930
+    m_ExpandedIDs: 000000006478000066780000687800006a780000d0780000d278000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -768,9 +768,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 30720000
-    m_LastClickedInstanceID: 29232
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: d8780000
+    m_LastClickedInstanceID: 30936
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000e2370000627600003a750000947c0000c87c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
