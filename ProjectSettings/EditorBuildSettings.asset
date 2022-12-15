@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Josh/Scenes/Josh_Hirshfield_Final_Everything.unity
     guid: 45837aebac6c33547ba2bb96e658819d
+  - enabled: 1
+    path: Assets/EE/Evie-Wang-Fina-Everything.unity
+    guid: 3a840963f0d196f4fbf8912475a6a8a7
+  - enabled: 1
+    path: Assets/Jet/Jet-Vellinga-Final-Everything.unity
+    guid: 4599109483a2c8842aa1f21a82872b9b
   m_configObjects: {}
