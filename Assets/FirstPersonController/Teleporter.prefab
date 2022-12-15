@@ -62,7 +62,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7820592cc7dbca346a25322f36093747, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetScene: Hub
+  targetScene: Hub_Scene
 --- !u!1 &3225962205603950139
 GameObject:
   m_ObjectHideFlags: 0
