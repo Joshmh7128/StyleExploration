@@ -1,7 +1,0 @@
-
-AltSurface "with LOLA shading" "Sol/Earth/Moon"
-{
-        Texture "moon.*"
-        NormalMap "MoonNormal_LOLA.ctx"
-}
-

@@ -27,6 +27,7 @@ EditorUserSettings:
       value: 02090c5e01565903595b5b2616710e44414f48737978236429281830e4e63039
       flags: 0
     RecentlyUsedSceneGuid-6:
+<<<<<<< HEAD
       value: 0207005257020a035f0a552745250844434e1c7b797172637e7d4e36e6e1373a
       flags: 0
     RecentlyUsedSceneGuid-7:
@@ -47,6 +48,18 @@ EditorUserSettings:
     UnityEditor.ShaderGraph.InspectorWindow:
       value: 18135939215a0a5004000b0e15254b524c1119263f2d6a722016393ce1eb3d36e5d339f9a5602b2e2c07a37e0901373ae01e0008f707250d171df81a53a5485d41895ac825e0100ec20313c0d91cddccd3d0c7efcca9bd8f9086f9abada3b6a1a3a5fdaff9ffa98ce8a2c182a6d8c2869bd1f5dc8e9c9a97ea9c819ffcca90898b81d0988bd7888b88dff2ddf5c0f4f5c1f6b98b
 >>>>>>> origin/jon/art
+=======
+      value: 0601035253035f0c545b5e24437b5a4444164f787c2c7e602f284d37bab2306f
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 550003540704595d590d5d7b13250844444f1c2b2e712432752c4b64b5b8323c
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 020352565d030d0a09590d70447b0e44474e487a282b27312f2d4f6be0e36569
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 0102505752070c58585f5a72467009444f1541287c7c2034287e4467e6e2616c
+>>>>>>> origin/swathi/art
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
