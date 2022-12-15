@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Museum/Hub/Hub_Scene.unity
+    guid: 67694001e882b3148879ac49723e57a9
+  - enabled: 1
     path: Assets/Josh/Scenes/Josh_Hirshfield_Final_Everything.unity
     guid: 45837aebac6c33547ba2bb96e658819d
   - enabled: 1
@@ -14,4 +17,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Jet/Jet-Vellinga-Final-Everything.unity
     guid: 4599109483a2c8842aa1f21a82872b9b
+  - enabled: 1
+    path: Assets/Jon/Seens/Jon-Talbot-Final-Everything.unity
+    guid: 002c4015b318fbc42ab2443bb9c573a2
+  - enabled: 1
+    path: Assets/Lee/Lee_McGirr_Final_Everything.unity
+    guid: afd5f9a02ace2d74dbbafe72fc175a9f
+  - enabled: 1
+    path: Assets/Lorg/Eugene-An-Final-Everything.unity
+    guid: 7e0a1334409820946862866c6fb2c372
+  - enabled: 1
+    path: Assets/Swathi/Scenes/Swathi_Sambasivam_Final_Alltogether.unity
+    guid: b3d172ec516063649b9b04fde794db54
   m_configObjects: {}

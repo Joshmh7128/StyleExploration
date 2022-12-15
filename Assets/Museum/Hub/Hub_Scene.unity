@@ -453,6 +453,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Teleporter (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1358858777060296880, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1358858777060296895, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -766,7 +770,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6287474235357301418, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: targetScene
-      value: 
+      value: Jet-Vellinga-Final-Everything
       objectReference: {fileID: 0}
     - target: {fileID: 8430701703825272762, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
@@ -1767,7 +1771,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6287474235357301418, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: targetScene
-      value: 
+      value: Swathi_Sambasivam_Final_Alltogether
       objectReference: {fileID: 0}
     - target: {fileID: 8430701703825272762, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
@@ -1961,7 +1965,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6287474235357301418, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: targetScene
-      value: 
+      value: Jon-Talbot-Final-Everything
       objectReference: {fileID: 0}
     - target: {fileID: 8430701703825272762, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
@@ -2054,7 +2058,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6287474235357301418, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: targetScene
-      value: 
+      value: Eugene-An-Final-Everything
       objectReference: {fileID: 0}
     - target: {fileID: 8430701703825272762, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
@@ -2341,7 +2345,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6287474235357301418, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: targetScene
-      value: 
+      value: Lee_McGirr_Final_Everything
       objectReference: {fileID: 0}
     - target: {fileID: 8430701703825272762, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b

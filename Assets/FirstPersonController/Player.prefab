@@ -265,7 +265,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerHead: {fileID: 5514058804660791758}
   characterController: {fileID: 5514058804985898431}
-  moveSpeed: 5
+  moveSpeed: 10
   gravity: -9.81
   jumpVelocity: 1
   playerJumpVelocity: 0
