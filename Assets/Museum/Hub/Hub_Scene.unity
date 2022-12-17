@@ -455,7 +455,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1358858777060296880, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1358858777060296895, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: m_RootOrder
@@ -519,7 +519,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6287474235357301418, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: targetScene
-      value: 
+      value: Aleks_Everything
       objectReference: {fileID: 0}
     - target: {fileID: 8430701703825272762, guid: fa0ab6983c1cd154780b7552a9cd9e13, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
